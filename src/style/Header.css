@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.Akki{
+    background-color: #37475A;
+    width: 100%;
+    height: 635px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    background-color: aliceblue;
+    width: 400px;
+    height: 400px;
+    
+}
+.createA{
+    width: 100%;
+    height: 100px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ca{
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: normal;
+    color:  #37475A;
+}
+.email{
+    width: 100%;
+    height: 60px;
+    /* background-color:blueviolet; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.emailhw{
+    height: 30px;
+    width: 350px;
+    font-weight: bold;
+    outline: 1px solid gray;
+    border: none;
+}
+.password{
+    width: 100%;
+    height: 60px;
+    /* background-color:brown; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.passwordhw{
+    height: 30px;
+    width: 350px;
+    font-weight: bold;
+    outline: 1px solid gray;
+    border: none;
+}
+.country{
+    width: 100%;
+    height: 60px;
+    /* background-color:cadetblue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.countryhw{
+    height: 30px;
+    width: 350px;
+    font-weight: bold;
+    outline: 1px solid gray;
+    border: none;
+}
+.term{
+    width: 100%;
+    height: 40px;
+    /* background-color:chartreuse; */
+    display: flex;
+    align-items: center;
+    
+    
+}
+.term1{
+    padding: 10px;
+    margin-left: 16px;
+}
+.term2{
+    padding: 10px;
+    font-weight: bold;
+}
+.smt{
+    width: 100%;
+    height: 60px;
+    /* background-color:aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.submit{
+    font-size: medium;
+    font-weight: 500;
+    color: aliceblue;
+    width: 80%;
+    background-color: #37475A;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
